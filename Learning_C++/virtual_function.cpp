@@ -48,7 +48,7 @@ class Symbiote: public Alien {
 };
 
 int main(){
-    Animal *ptr;
+    Animal *ptr; 
     ptr = new Dog();
     ptr->speak();
 
