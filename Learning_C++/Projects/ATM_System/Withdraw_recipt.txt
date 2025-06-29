@@ -1,0 +1,9 @@
+Sunrise Bank Itahari branch
+Date: 6/29/2025
+Account: 01310200230669000001
+
+Operation			Success
+Withdrawal			Account: 01310200230669000001
+Balance: 20000
+Withdrawn amount: R.s 3000
+Current balance: R.s 17000

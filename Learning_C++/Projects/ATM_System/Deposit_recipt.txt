@@ -1,0 +1,9 @@
+Sunrise Bank Itahari branch
+Date: 6/29/2025
+Account: 01310200230669000001
+
+Operation			Success
+Deposit			Account: 01310200230669000001
+Balance: 10000
+Deposited amount: R.s 10000
+Current balance: R.s 20000
