@@ -10,7 +10,7 @@ int GCD(int x, int y){
 
 int main()
 {
-    int result = GCD(177,3);
+    int result = GCD(233,105);
     cout <<"GCD: " <<result <<endl;
     return 0;
 }

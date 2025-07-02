@@ -5,5 +5,5 @@ Account: 01310200230669000001
 Operation			Success
 Withdrawal			Account: 01310200230669000001
 Balance: 20000
-Withdrawn amount: R.s 3000
-Current balance: R.s 17000
+Withdrawn amount: R.s 5000
+Current balance: R.s 15000
