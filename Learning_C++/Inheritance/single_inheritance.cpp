@@ -4,6 +4,10 @@ using namespace std;
 class Base {
     public:
 
+    Base(){
+        cout <<"I am base."<<endl;
+    }
+
     virtual void Info(){
         cout <<"this is base class.";
     }
@@ -11,6 +15,10 @@ class Base {
 
 class Child: public Base {
     public:
+    Child() {
+        cout <<"I am child."<<endl;
+    }
+
     void Info() override {
         cout <<"this is child class.";
     }
